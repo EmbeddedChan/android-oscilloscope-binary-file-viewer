@@ -38,3 +38,12 @@ EC FusionKit
 ![Screen 1](images/Screenshot_1.jpg)
 
 ![Screen 2](images/Screenshot_2.jpg)
+
+EC-FusionKit is available in two editions:
+
+### Free Version
+Includes all standard features, except Pro-exclusive functions.
+
+### Pro Version
+Unlocks advanced features, including:
+- >100000 pts

@@ -1,5 +1,6 @@
 # android-oscilloscope-binary-file-viewer
 Agilent (KeySight) oscilloscope binary file viewer
+> **Note:** This project is distributed as the **WaveScope edition of EC FusionKit**.
 
 ## 📥 Download
 

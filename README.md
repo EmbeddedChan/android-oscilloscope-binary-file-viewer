@@ -13,7 +13,7 @@ EC-FusionKit-v1.13.5.apk](https://github.com/EmbeddedChan/android-oscilloscope-b
 EC FusionKit
 │
 │
-├── WaveScope 
+├── WaveScope(Agilent/KeySight)
 │
 ├── Terminals
 │   ├── USB Serial Terminal
